@@ -2,7 +2,7 @@
 
 ## DESCRIÇÃO
 
-Utilizando [ASP.NET](http://ASP.NET) Core, MySQL, Dagger e Swagger.
+Utilizando [ASP.NET](http://ASP.NET) Core, MySQL, Dapper e Swagger.
 
 Uma API é uma interface de programação utilizada na montagem de aplicações. Ela faz o papel de recuperar somente os dados requisitados de um banco de dados.
 
